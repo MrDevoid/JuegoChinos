@@ -1,0 +1,16 @@
+                                   *****************************
+                                   *    JUEGO DE LOS CHINOS    *
+                                   *         Reglas            *
+                                   *****************************
+El mundo se encuentra en peligro y solo tu puedes salvarlo. Desafia a la maquina lider, vencela en duelo, y decide el destino de la humanidad.
+Dispones de n  chips(por defecto,3) para neutralizar la maquina, pero a su vez, la maquina tiene ya enganchados una serie de chips. 
+Si consigues adivinar el numero total de chips entre los dos, la maquina se ralentiza, dandote tiempo a neutralizarla.
+Sin embargo, si ella adivina cuanto hay entre los dos, mandara a sus subditos a robarte tus chips y todas las posibilidades de salvacion se veran exterminadas.
+Debes suponer el numero de chips totales teniendo en cuenta las siguientes restricciones:
+ 1.- No puede ser igual a la apuesta de la maquina.
+ 2.- Debe ser igual o superior al numero de chips que posees.
+(Recomendacion: No apuestes por una suma imposible:
+Ej: Si tienes 2 chips y jugais con 3 cada uno, no supongas que hay 6 chips.)
+La batalla se decidira a un numero de rondas determinado por el marcador (por defecto, 2) y aquel que primero llegue a ese valor, conseguira la victoria total. 
+Vencer o morir, tu decides.
+XXX
